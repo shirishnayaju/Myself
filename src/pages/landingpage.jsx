@@ -20,8 +20,8 @@ const projects = [
     desc: "A comprehensive Figma design system with components, variables, and documentation for scalable UI.",
     tags: ["Figma", "UI/UX", "Design"],
     gradient: "from-pink-500 to-rose-600",
-    image: "/image1.png",
-    link: "https://www.figma.com/design/JUbiGBafhwW46n255xvGtY/fitness-website?node-id=0-1&t=W3rjiWWvwoX8rC1L-1",
+    image: "/Image3.png",
+    link: "https://www.figma.com/proto/5lAgVsrS04GFoJ4JNCuHC4/RealState-webpage?node-id=2-3&p=f&t=F2suIKOhbxgZOpuD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A3",
     emoji: "🎨",
   },
   {
@@ -34,12 +34,12 @@ const projects = [
     emoji: "🖼️",
   },
   {
-    title: "React Dashboard",
+    title: "Red Bull Replica Website ",
     desc: "An interactive dashboard with dynamic data visualization built while learning React and GSAP.",
     tags: ["React", "GSAP", "JavaScript"],
     gradient: "from-cyan-500 to-blue-600",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
-    link: "https://github.com/shirishnayaju",
+    image: "/Image4.png",
+    link: "https://redbull-dun.vercel.app/",
     emoji: "📊",
   },
 ];
